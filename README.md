@@ -1,7 +1,7 @@
 # tp-link-bulb-color-control
 
 ## Control a TP-Link color changing bulb with this program. 
-### This was used to randomly change the color of a KL130 model bulb for a set number of seconds.
+This was used to randomly change the color of a KL130 model bulb for a set number of seconds.
 
 # Usage
 
