@@ -40,9 +40,9 @@ class TpLinkApiTests(unittest.TestCase):
         app_server_url = bulb["appServerUrl"]
         # Also grab the bulbs ID
         device_id = bulb["deviceId"]
- 
-        print(bulb["deviceId"])
+     
         print(app_server_url)
+        print(device_id)
         print(token)
         # Send a command through to the bulb to change it's colour
         # This is the command for the bulb itself...
